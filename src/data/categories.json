@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name": "Neveras",
+    "image": "https://images.unsplash.com/photo-1584568694244-14fbdf83bd30?q=80&w=400&h=400&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Lavadoras",
+    "image": "https://images.unsplash.com/photo-1610557892470-55d9e80c0bce?q=80&w=400&h=400&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Aires Acondicionados",
+    "image": "https://images.unsplash.com/photo-1527623916960-9942a66699eb?q=80&w=400&h=400&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Estufas & Hornos",
+    "image": "https://images.unsplash.com/photo-1522336572468-97b06e8ef143?q=80&w=400&h=400&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "Pequeños Electrodomésticos",
+    "image": "https://images.unsplash.com/photo-1585515320310-259814833e62?q=80&w=400&h=400&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Televisores",
+    "image": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?q=80&w=400&h=400&fit=crop"
+  }
+]

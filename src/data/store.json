@@ -1,0 +1,16 @@
+{
+  "name": "Reyes Appliances",
+  "phone": "12674575733",
+  "displayPhone": "+1 267-457-5733",
+  "whatsapp": "12157764000",
+  "displayWhatsapp": "+1 215-776-4000",
+  "email": "faustoreyes74@hotmail.com",
+  "address": "526 W Lehigh Ave, Philadelphia, PA 19133, Estados Unidos",
+  "mapUrl": "https://maps.google.com/maps?width=100%25&height=600&hl=es&q=526%20W%20Lehigh%20Ave,%20Philadelphia,%20PA%2019133+(F%20Reyes%20Appliances)&t=&z=17&ie=UTF8&iwloc=B&output=embed",
+  "whatsappMessageTemplate": "Hola, estoy interesado en el producto: {productName}.",
+  "socials": {
+    "facebook": "https://web.facebook.com/elincansable05?locale=es_LA",
+    "instagram": "https://www.instagram.com/reyesapliace/",
+    "tiktok": "https://www.tiktok.com/@freyesappliances__?lang=es"
+  }
+}
